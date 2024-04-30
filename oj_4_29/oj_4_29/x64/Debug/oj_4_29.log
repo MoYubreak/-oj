@@ -1,0 +1,5 @@
+﻿  oj.cpp
+E:\oj\oj_4_29\oj_4_29\oj.cpp(11,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\oj\oj_4_29\oj_4_29\oj.cpp(14,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\oj\oj_4_29\oj_4_29\oj.cpp(22,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  oj_4_29.vcxproj -> E:\oj\oj_4_29\x64\Debug\oj_4_29.exe
